@@ -16,9 +16,9 @@ The code is distributed under [MIT License](LICENSE)
 
 ## Running the Code
 
-The easiest way to run the code is to [clone the repository](https://notebooks.azure.com/import/gh/shwars/SlidingSir) in [Azure Notebooks])https://soshnikov.com/azure/8-reasons-why-you-absolutely-need-azure-notebooks/), or use [Visual Studio Codespaces](https://code.visualstudio.com/docs/remote/codespaces/?WT.mc_id=personal-github-dmitryso) to open the code.
+The easiest way to run the code is to [clone the repository](https://notebooks.azure.com/import/gh/shwars/SlidingSir?WT.mc_id=academic-0000-dmitryso) in [Azure Notebooks])https://soshnikov.com/azure/8-reasons-why-you-absolutely-need-azure-notebooks/), or use [Visual Studio Codespaces](https://code.visualstudio.com/docs/remote/codespaces/?WT.mc_id=academic-0000-dmitryso) to open the code.
 
-<a href="https://notebooks.azure.com/import/gh/shwars/SlidingSir"><img src="https://notebooks.azure.com/launch.png" /></a>
+<a href="https://notebooks.azure.com/import/gh/shwars/SlidingSir?WT.mc_id=academic-0000-dmitryso"><img src="https://notebooks.azure.com/launch.png?WT.mc_id=academic-0000-dmitryso" /></a>
 <a href="https://mybinder.org/v2/gh/shwars/SlidingSir/master"><img src="https://mybinder.org/badge_logo.svg"/></a>
 <!-- ?filepath=notebooks%2FSlidingSIR.ipynb -->
 
