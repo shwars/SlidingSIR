@@ -10,6 +10,7 @@ authors:
     given-names: Tatiana
     orcid: "https://orcid.org/0000-0001-5569-145X"
 cff-version: "1.1.0"
+doi: "10.5281/zenodo.5245225"
 license: MIT
 message: "If you use the code from this repository, please cite it."
 title: "Sliding SIR Model for Epidemic Modelling"
