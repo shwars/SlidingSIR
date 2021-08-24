@@ -8,7 +8,7 @@ This repository contains code to perform estimation of effective reproductive nu
 
 ## Citation
 
-If you use any portion of this code in your research, please cite the following:
+If you use any portion of this code in your research, please cite either this repository, or the following paper:
 
 > Petrova, T.; [Soshnikov, D.](http://soshnikov.com); Grunin, A. Estimation of Time-Dependent Reproduction Number for Global COVID-19 Outbreak. Preprints 2020, 2020060289 (doi: [10.20944/preprints202006.0289.v1][pp]).
 
@@ -16,9 +16,8 @@ The code is distributed under [MIT License](LICENSE)
 
 ## Running the Code
 
-The easiest way to run the code is to [clone the repository](https://notebooks.azure.com/import/gh/shwars/SlidingSir) in [Azure Notebooks])https://soshnikov.com/azure/8-reasons-why-you-absolutely-need-azure-notebooks/), or use [Visual Studio Codespaces](https://code.visualstudio.com/docs/remote/codespaces/?WT.mc_id=personal-github-dmitryso) to open the code.
+The easiest way to run the code is to [clone the repository](https://notebooks.azure.com/import/gh/shwars/SlidingSir) in [Azure Notebooks])https://soshnikov.com/azure/8-reasons-why-you-absolutely-need-azure-notebooks/), or use [Visual Studio Codespaces](https://code.visualstudio.com/docs/remote/codespaces/?WT.mc_id=acad-35497-dmitryso) to open the code.
 
-<a href="https://notebooks.azure.com/import/gh/shwars/SlidingSir"><img src="https://notebooks.azure.com/launch.png" /></a>
 <a href="https://mybinder.org/v2/gh/shwars/SlidingSir/master"><img src="https://mybinder.org/badge_logo.svg"/></a>
 <!-- ?filepath=notebooks%2FSlidingSIR.ipynb -->
 
@@ -30,7 +29,7 @@ The easiest way to run the code is to [clone the repository](https://notebooks.a
 
 ## Some Results
 
-The methodology is described [in this blog post][blog]. Here are a few obtained results:
+The methodology is described [in this blog post][blog] or in the [paper][pp]. Here are a few obtained results:
 
 #### Rt Dynamics in Russia
 ![](http://soshnikov.com/images/blog/SIR/Rt_Russia_Events.png)
