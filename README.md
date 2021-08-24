@@ -12,6 +12,8 @@ If you use any portion of this code in your research, please cite either this re
 
 > Petrova, T.; [Soshnikov, D.](http://soshnikov.com); Grunin, A. Estimation of Time-Dependent Reproduction Number for Global COVID-19 Outbreak. Preprints 2020, 2020060289 (doi: [10.20944/preprints202006.0289.v1][pp]).
 
+<a href="https://zenodo.org/badge/latestdoi/272171060"><img src="https://zenodo.org/badge/272171060.svg" alt="DOI"></a>
+
 The code is distributed under [MIT License](LICENSE)
 
 ## Running the Code
